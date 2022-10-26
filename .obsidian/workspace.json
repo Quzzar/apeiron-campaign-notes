@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "50c97a688b3403b9",
+        "id": "7357e38fd1eb5247",
         "type": "tabs",
         "children": [
           {
-            "id": "ebdfa69d18e0288e",
+            "id": "5d3731e91d4f7e0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Private/secret.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Private/secret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Private/secret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Private/secret.md"
+              }
             }
           },
           {
@@ -148,15 +156,15 @@
   },
   "active": "dee28b7d03cee3f7",
   "lastOpenFiles": [
-    "Setting/Timeline.md",
-    "Resources/How the Universe Works.md",
-    "Resources/Kardashev Scale.md",
-    "Resources/Generators.md",
-    "Setting/Tech.md",
-    "Setting/General.md",
-    "Game/Starting.md",
-    "2022-10-25.md",
-    "Resources/Time Dilation.md",
-    "Resources/Names.md"
+    "README.md",
+    "Public/consistency.md",
+    "Public/Setting/Timeline.md",
+    "Public/안녕하세요.md",
+    "Public/Setting/Tech.md",
+    "Public/move your body every day.md",
+    "Public/Setting/General.md",
+    "Public/Resources/How the Universe Works.md",
+    "Public/Resources/Kardashev Scale.md",
+    "Public/Resources/Generators.md"
   ]
 }
