@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dbec3fadf516dfc2",
+        "id": "036e3194f4a325b6",
         "type": "tabs",
         "children": [
           {
-            "id": "d91c3d03a1f3918a",
+            "id": "69eacfb8aa3abadc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/Tech.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -43,14 +39,6 @@
             }
           },
           {
-            "id": "dee28b7d03cee3f7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "dca31cd8ed7e6399",
             "type": "leaf",
             "state": {
@@ -66,6 +54,14 @@
             }
           },
           {
+            "id": "dee28b7d03cee3f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "44ed036e5143e260",
             "type": "leaf",
             "state": {
@@ -74,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Setting/Tech.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,13 +151,15 @@
   },
   "active": "dee28b7d03cee3f7",
   "lastOpenFiles": [
-    "Setting/Timeline.md",
-    "Setting/General.md",
+    "Resources/Generators.md",
+    "Game/Starting.md",
     "Resources/How the Universe Works.md",
+    "Setting/General.md",
+    "Setting/Timeline.md",
+    "Setting/Tech.md",
     "2022-10-25.md",
     "Resources/Kardashev Scale.md",
     "Resources/Time Dilation.md",
-    "Resources/Names.md",
-    "Resources/Generators.md"
+    "Resources/Names.md"
   ]
 }

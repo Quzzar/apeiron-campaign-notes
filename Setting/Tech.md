@@ -9,9 +9,6 @@ The technology relied on the two entangled particles having an isolated wave fun
 
 A local ICF is an ICF that contains an entangled particle whose end particle is not in another system but within the same system. It's best for quick planet-to-plant communication.
 
-
-dwdwdw
-
 * **Complete Communication Collapse (CCC)** - If the single entangled quark touches or interacts with anything, its wave function would collapse. Ending all communication. A new entangled quark would have to be acquired from light-years away. This is one of the worst things that could occur to a solar system.
 
 Because each particle itself was precious in this technology, for quite a while quantum teleportation and quantum reconfiguration was very much out of the realm of possibility.
