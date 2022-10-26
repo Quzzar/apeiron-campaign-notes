@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aacaa1c4946f9b49",
+        "id": "50c97a688b3403b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac7f3415f2b86f8",
+            "id": "ebdfa69d18e0288e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -145,9 +145,6 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
-  },
-  "ribbon": {
-    "mostRecentAction": ""
   },
   "active": "dee28b7d03cee3f7",
   "lastOpenFiles": [

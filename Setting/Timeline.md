@@ -1,8 +1,6 @@
 
 _BC - Before the Collective, UTC - Universal Time Coordinated_
 
-[[How the Universe Works]]
-
 ### (1200-1100 for Human / 1214 for Xel'nagan) BC - Interstellar Expansion
 
 As far back as history remembers it, humanoids had slowly began to spread out in colonies throughout the galaxy - mainly by that of the type II civilizations: Humans and Xel'nagan.
