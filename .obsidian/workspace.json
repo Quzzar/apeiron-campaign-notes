@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Public/Overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,6 +161,7 @@
   },
   "active": "dee28b7d03cee3f7",
   "lastOpenFiles": [
+    "Public/Overview.md",
     "Private/secret.md",
     "README.md",
     "Public/consistency.md",
@@ -173,7 +170,6 @@
     "Public/Setting/Tech.md",
     "Public/move your body every day.md",
     "Public/Setting/General.md",
-    "Public/Resources/How the Universe Works.md",
-    "Public/Resources/Kardashev Scale.md"
+    "Public/Resources/How the Universe Works.md"
   ]
 }
