@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7357e38fd1eb5247",
+        "id": "5c1b943c68a2f53c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3731e91d4f7e0e",
+            "id": "5c3682f09049679c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "71949d21c3109b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Public/Overview.md",
-                "mode": "source",
-                "source": true
+                "file": "Public/Resources/Time Dilation.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dee28b7d03cee3f7",
+  "active": "5c3682f09049679c",
   "lastOpenFiles": [
-    "Public/Overview.md",
-    "Private/secret.md",
-    "README.md",
-    "Public/consistency.md",
-    "Public/Setting/Timeline.md",
-    "Public/안녕하세요.md",
-    "Public/Setting/Tech.md",
+    "Public/animals/cats.md",
     "Public/move your body every day.md",
-    "Public/Setting/General.md",
-    "Public/Resources/How the Universe Works.md"
+    "Public/Resources/Time Dilation.md",
+    "README.md",
+    "Public/Overview.md",
+    "Public/Resources/Generators.md",
+    "Public/Resources/How the Universe Works.md",
+    "Public/Resources/Kardashev Scale.md",
+    "Public/Resources/Names.md",
+    "Public/Setting/General.md"
   ]
 }
