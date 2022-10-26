@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c2ba44e36656ed44",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbec3fadf516dfc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91c3d03a1f3918a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Tech.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43df6ff6b5c33b97",
+    "type": "split",
+    "children": [
+      {
+        "id": "edb7afc7048b5fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "437c4575d9f8a078",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dee28b7d03cee3f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dca31cd8ed7e6399",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44ed036e5143e260",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d976a4e7869bd8da",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d824653c25a71d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae5118b16ad2b97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting/Tech.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbe38a9c51784d9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3641c7a9419f2fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting/Tech.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1385bd787646412",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting/Tech.md"
+              }
+            }
+          },
+          {
+            "id": "b07d95f6b202564a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dee28b7d03cee3f7",
+  "lastOpenFiles": [
+    "Setting/Timeline.md",
+    "Setting/General.md",
+    "Resources/How the Universe Works.md",
+    "2022-10-25.md",
+    "Resources/Kardashev Scale.md",
+    "Resources/Time Dilation.md",
+    "Resources/Names.md",
+    "Resources/Generators.md"
+  ]
+}
