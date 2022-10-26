@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "036e3194f4a325b6",
+        "id": "aacaa1c4946f9b49",
         "type": "tabs",
         "children": [
           {
-            "id": "69eacfb8aa3abadc",
+            "id": "1ac7f3415f2b86f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -151,14 +151,14 @@
   },
   "active": "dee28b7d03cee3f7",
   "lastOpenFiles": [
-    "Resources/Generators.md",
-    "Game/Starting.md",
-    "Resources/How the Universe Works.md",
-    "Setting/General.md",
     "Setting/Timeline.md",
-    "Setting/Tech.md",
-    "2022-10-25.md",
+    "Resources/How the Universe Works.md",
     "Resources/Kardashev Scale.md",
+    "Resources/Generators.md",
+    "Setting/Tech.md",
+    "Setting/General.md",
+    "Game/Starting.md",
+    "2022-10-25.md",
     "Resources/Time Dilation.md",
     "Resources/Names.md"
   ]
