@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c1b943c68a2f53c",
+        "id": "902b9225162f27be",
         "type": "tabs",
         "children": [
           {
-            "id": "5c3682f09049679c",
+            "id": "91ea5d73eddbab71",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Public/Resources/Time Dilation.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -47,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GUC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,25 +138,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5c3682f09049679c",
+  "active": "dee28b7d03cee3f7",
   "lastOpenFiles": [
-    "Public/animals/cats.md",
-    "Public/move your body every day.md",
     "Public/Resources/Time Dilation.md",
-    "README.md",
-    "Public/Overview.md",
-    "Public/Resources/Generators.md",
     "Public/Resources/How the Universe Works.md",
     "Public/Resources/Kardashev Scale.md",
-    "Public/Resources/Names.md",
-    "Public/Setting/General.md"
+    "Private/Generators.md",
+    "Private/Names.md",
+    "Public/Setting/Locations/Para.md",
+    "Private/Ideas Board.md",
+    "Public/Setting/General.md",
+    "Public/Setting/Ancestries/Oread.md",
+    "Public/Setting/Timeline/UCT, 982.md"
   ]
 }

@@ -1,0 +1,3 @@
+### Aka Catfolk
+
+The feline-like people are natives of a lush world they call [[Pulonis]]. Their home planet’s relatively low gravity and fast predatory species resulted in the Amurrun adapting into a lean race with elongated humanoid bodies and limbs. Amurrun’s fur ranges in color from tawny brown to shades of black and gray, while their eyes can be virtually any color of the visible spectrum. According to ancient traditions, an Amurrun's unique facial pattern indicates their character and potential for achievement. Some Amurrun societies still assign adolescent Amurruns to a specific social role after a reading of their face patterns by a Amurrun mystic. However, the most recent generations of Amurruns have begun to resist this often-superficial classification.

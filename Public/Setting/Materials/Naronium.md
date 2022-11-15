@@ -1,0 +1,1 @@
+A metallic compound material that functions as a semiconductor with 4 (potentially 5) individual and distinguishable states.

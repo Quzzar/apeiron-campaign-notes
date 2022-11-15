@@ -1,3 +1,9 @@
 {
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheck": true,
+  "tabSize": 8,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "livePreview": false,
+  "defaultViewMode": "source"
 }
